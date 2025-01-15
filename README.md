@@ -4,6 +4,12 @@
 
 ## Development
 
+Install the dependencies:
+
+```shellscript
+npm install
+```
+
 Run the dev server:
 
 ```shellscript
